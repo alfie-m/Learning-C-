@@ -1,0 +1,9 @@
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\bin\Debug\COMP282 Assignment 2.exe.config
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\bin\Debug\COMP282 Assignment 2.exe
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\bin\Debug\COMP282 Assignment 2.pdb
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282 Assignment 2.csprojAssemblyReference.cache
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282_Assignment_2.Form1.resources
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282_Assignment_2.Properties.Resources.resources
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282 Assignment 2.csproj.GenerateResource.cache
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282 Assignment 2.exe
+C:\Users\alfie\Documents\Programming\C#\COMP282\COMP282 Assignment 2\COMP282 Assignment 2\obj\Debug\COMP282 Assignment 2.pdb
